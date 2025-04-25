@@ -1,7 +1,7 @@
 <h1 align="center">Prazer, sou o Caio Tacahashi</h1>
 
 <p align="center">
-   Analista de Sistemas Júnior | Pós-graduando em Engenharia e Arquitetiura de Dados | Futuro Engenheiro de Dados
+   Analista de Sistemas Júnior | Pós-graduando em Engenharia e Arquitetura de Dados | Futuro Engenheiro de Dados
 </p>
 
 ---
