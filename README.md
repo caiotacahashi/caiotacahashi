@@ -27,11 +27,14 @@
 
 ### 📌 Repositórios em destaque
 
-- 🛠️ [ETL com API DummyJSON](https://github.com/caiotacahashi/etl-dummyjson-pipeline)  
+- [ETL com API DummyJSON](https://github.com/caiotacahashi/etl-dummyjson-pipeline)  
   Projeto de pipeline de dados com Python e Pandas, salvando dados em JSON e CSV.
 
+- [ETL de Vendas](https://github.com/caiotacahashi/ETL-Vendas)  
+  Projeto completo de ETL utilizando Python, Pandas, NumPy e Matplotlib.  
+  Dados são extraídos da API DummyJSON, transformados com cálculos e classificações, e exportados para CSV com geração de gráficos visuais.  
 ---
 
 ### 📬 Vamos nos conectar!
 
-[LinkedIn - Caio Tacahashi](https://www.linkedin.com/in/caiotacahashi/)
+- [LinkedIn - Caio Tacahashi](https://www.linkedin.com/in/caiotacahashi/)
